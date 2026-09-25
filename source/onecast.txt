@@ -1,0 +1,82 @@
+Política de privacidad de OneCast
+Última actualización: 15 de septiembre de 2026
+OneCast es una aplicación de navegador y reproducción que permite transmitir contenido web compatible y autorizado por el usuario hacia dispositivos Google Cast y DLNA.
+1. Responsable
+Responsable de la aplicación: Agustin Srur | Engineering Solutions
+Correo de contacto: agustinsrur+dev@gmail.com
+País: Argentina
+2. Datos que procesa OneCast
+OneCast puede procesar los siguientes datos:
+* URLs y páginas que el usuario decide abrir.
+* Títulos, metadatos, recursos multimedia y carátulas disponibles en esas páginas.
+* Historial de búsquedas y navegación realizado dentro de la aplicación.
+* Información técnica de las fuentes de video, como formato, resolución, pistas de audio, subtítulos y compatibilidad.
+* Nombre, modelo, fabricante y dirección de red local de dispositivos Cast o DLNA detectados.
+* Estado de reproducción, errores de conexión y resultados de compatibilidad.
+* Cookies y almacenamiento web de las páginas visitadas, según la configuración elegida por el usuario.
+* Un token local de autorización cuando el usuario autoriza el control de determinados televisores Samsung.
+OneCast no solicita nombre, teléfono, correo electrónico, contactos, ubicación precisa ni fotografías personales.
+3. Historial y aprendizaje local
+El historial de búsquedas, URLs y títulos se guarda localmente en el dispositivo.
+La aplicación también guarda localmente información técnica sobre reproducciones exitosas o fallidas para mejorar la selección entre reproducción directa, relay y conversión compatible.
+Estos datos no se envían automáticamente a OneCast ni se utilizan para crear perfiles publicitarios. El usuario puede borrar el historial y el aprendizaje desde la aplicación.
+4. Navegación web y cookies
+OneCast utiliza Android System WebView para mostrar las páginas que el usuario visita.
+Las páginas pueden utilizar sus propias cookies, almacenamiento local, sesiones de usuario y tecnologías de terceros. OneCast permite controlar las cookies de terceros desde sus ajustes.
+El usuario es responsable de las cuentas y credenciales que introduzca en páginas externas. OneCast no solicita ni almacena contraseñas de sitios web.
+5. Transmisión a dispositivos
+Cuando el usuario selecciona un dispositivo Google Cast, DLNA o Samsung compatible, OneCast transmite únicamente la fuente y los metadatos necesarios para iniciar la reproducción.
+La comunicación puede incluir:
+* La URL del recurso multimedia seleccionado.
+* Título y carátula del contenido.
+* Información técnica necesaria para la reproducción.
+* Cabeceras de sesión estrictamente necesarias para la fuente elegida.
+La transmisión se realiza dentro de la red local o mediante los mecanismos oficiales de Google Cast y del fabricante correspondiente.
+El usuario debe tener autorización para ver y retransmitir el contenido elegido. OneCast no está diseñada para evadir DRM, autenticación, paywalls, restricciones de acceso ni sistemas de protección de contenido.
+6. Diagnósticos
+OneCast permite exportar diagnósticos únicamente cuando el usuario lo solicita.
+Un diagnóstico puede incluir:
+* URLs visitadas.
+* Dominios y recursos multimedia detectados.
+* Estructura de páginas e iframes.
+* Información técnica del reproductor.
+* Errores de reproducción.
+* Capturas de pantalla de la aplicación y de las páginas analizadas.
+Los diagnósticos no incluyen intencionalmente cookies, contraseñas, valores de formularios ni cabeceras Authorization. Sin embargo, las URLs y capturas pueden contener información potencialmente sensible. El usuario debe revisar el archivo antes de compartirlo.
+Los diagnósticos se guardan en el destino que el usuario elija y no se envían automáticamente.
+7. Conexiones de red
+OneCast se conecta a:
+* Las páginas y servidores que el usuario decide visitar o reproducir.
+* Dispositivos de la red local seleccionados por el usuario.
+* Servicios necesarios para Google Cast.
+* Servicios técnicos de compatibilidad configurados por la aplicación.
+Los servidores externos pueden recibir la dirección IP, información del navegador, cookies y datos técnicos conforme a sus propias políticas de privacidad.
+OneCast no vende datos personales ni utiliza el historial del usuario para publicidad personalizada.
+8. Publicidad y seguimiento
+OneCast no incluye publicidad personalizada propia, no vende información personal y no utiliza el historial de navegación para crear perfiles publicitarios.
+Las páginas web visitadas pueden incluir sus propios anuncios, rastreadores o servicios de terceros. Esos elementos están sujetos a las políticas de privacidad de cada sitio.
+9. Seguridad
+OneCast utiliza las funciones de seguridad de Android y las conexiones HTTPS con validación de certificados cuando corresponde.
+La aplicación no garantiza la seguridad, disponibilidad o privacidad de páginas y servicios externos que el usuario decida visitar.
+10. Conservación de datos
+Los datos locales se conservan hasta que:
+* El usuario los elimina desde la aplicación.
+* El usuario borra los datos de OneCast desde los ajustes de Android.
+* Se alcanza el límite o vencimiento previsto para el historial y el aprendizaje local.
+* Se elimina manualmente un archivo de diagnóstico exportado.
+11. Menores
+OneCast no está dirigida específicamente a menores de edad. No recopilamos deliberadamente datos personales de menores.
+12. Derechos del usuario
+El usuario puede:
+* Consultar y borrar el historial local.
+* Borrar el aprendizaje de compatibilidad.
+* Eliminar cookies y almacenamiento web.
+* Revocar autorizaciones de dispositivos.
+* Desinstalar la aplicación y borrar sus datos.
+* Solicitar información sobre el tratamiento de datos escribiendo a agustinsrur+dev@gmail.com.
+Los derechos adicionales pueden depender de la legislación del país del usuario.
+13. Cambios en esta política
+Podemos actualizar esta política para reflejar cambios en OneCast, en sus funciones o en la legislación aplicable. La fecha de actualización se modificará cuando corresponda.
+14. Contacto
+Para consultas sobre privacidad o solicitudes relacionadas con datos personales:
+agustinsrur+dev@gmail.com

@@ -1,0 +1,35 @@
+:root{font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#19243a;background:#f7f9fc;font-synthesis:none}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;line-height:1.65}
+a{color:#3559b7}
+a:hover{text-decoration-thickness:2px}
+.shell{max-width:900px;margin:0 auto;padding:0 24px}
+.skip{position:absolute;left:-9999px;background:#fff;padding:8px 12px;z-index:10}
+.skip:focus{left:16px;top:8px}
+.site-header{border-bottom:1px solid #dce4ef;background:#fff}
+.header-inner{display:flex;justify-content:space-between;align-items:center;gap:24px;min-height:72px}
+.brand{text-decoration:none;color:#202b44;font-weight:800;white-space:nowrap;letter-spacing:.01em}
+.brand span{font-weight:500}
+nav{display:flex;flex-wrap:wrap;gap:16px}
+nav a{text-decoration:none;font-size:.94rem;color:#566782}
+nav a[aria-current=page]{color:#3455ad;font-weight:700}
+.eyebrow{text-transform:uppercase;letter-spacing:.14em;color:#6276a8;font-weight:800;font-size:.76rem;margin:42px 0 8px}
+.policy{background:#fff;border:1px solid #dce4ef;border-radius:18px;padding:32px 40px;margin:0 0 36px;box-shadow:0 14px 40px rgba(28,44,80,.05)}
+.policy h1{font-size:clamp(1.8rem,4vw,2.45rem);line-height:1.2;margin:0 0 24px}
+.policy h2{font-size:1.27rem;line-height:1.35;color:#253d74;margin:35px 0 12px}
+.policy h3{font-size:1.08rem;color:#385189;margin:24px 0 10px}
+.policy p{margin:0 0 13px;overflow-wrap:anywhere}
+.policy ul{margin:6px 0 18px;padding-left:24px}
+.policy li{margin:0 0 7px;overflow-wrap:anywhere}
+.policy .updated{color:#5c6b82;font-size:.93rem}
+.section-rule{border:0;border-top:1px solid #e8edf4;margin:26px 0}
+.footer{color:#627085;font-size:.87rem;margin-bottom:45px}
+.home{padding-top:70px}
+.home h1{font-size:clamp(2rem,5vw,3rem);margin:0 0 12px}
+.home>p:not(.eyebrow){color:#596a82;margin-bottom:32px}
+.policy-list{list-style:none;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px}
+.policy-list a{display:flex;flex-direction:column;gap:4px;min-height:120px;padding:24px;text-decoration:none;background:#fff;border:1px solid #dce4ef;border-radius:16px;box-shadow:0 8px 25px rgba(28,44,80,.04)}
+.policy-list strong{font-size:1.23rem;color:#203461}
+.policy-list span{font-size:.9rem;color:#63738b}
+@media(max-width:680px){.header-inner{align-items:flex-start;flex-direction:column;gap:10px;padding-top:14px;padding-bottom:14px}.policy{padding:24px 20px;border-radius:14px}.eyebrow{margin-top:26px}}
