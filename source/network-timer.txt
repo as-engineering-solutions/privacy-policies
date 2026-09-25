@@ -30,7 +30,11 @@ No vendemos ni alquilamos datos personales y no usamos redes de anuncios ni bibl
 
 7. Conservación y eliminación
 El historial y los registros de diagnóstico locales se conservan mientras la app esté instalada, hasta que se borren desde la app o se eliminen sus datos en Ajustes de Android. Los registros Diagnostics rotan para limitar su tamaño. Desinstalar la app o borrar sus datos no elimina archivos exportados, respaldos externos ni los registros de compra necesarios para verificar derechos en el servidor.
-Las copias de Drive deben gestionarse en Google Drive; los datos transferidos a otro dispositivo deben eliminarse allí. Para solicitar información o eliminación de datos de licencias asociados a una compra, escribe al correo de contacto; puede ser necesario conservar datos mínimos por obligaciones legales o para impedir que una compra revocada vuelva a conceder acceso.
+Las copias de Drive deben gestionarse en Google Drive; los datos transferidos a otro dispositivo deben eliminarse allí.
+
+Solicitud de eliminación de datos
+Para solicitar la eliminación de los datos de licencia asociados a tu compra o código de Google Play, escribe a agustinsrur+dev@gmail.com con el asunto «Network Timer: eliminación de datos». Describe tu solicitud; no envíes contraseñas, tokens de compra ni datos de tarjeta. Te responderemos para verificar la titularidad y comunicar qué datos pueden eliminarse. Los registros de licencia incluyen el token de compra cifrado y su huella, el tipo y estado del plan y las fechas de verificación y vencimiento. Algunos registros mínimos pueden conservarse por obligaciones legales o para impedir que una compra revocada vuelva a otorgar acceso.
+Para eliminar historial, ubicaciones y registros Diagnostics guardados en tu dispositivo, borra los datos de Network Timer en Ajustes de Android. Los archivos que hayas exportado y las copias opcionales de Google Drive deben eliminarse en el destino o servicio donde los guardaste. Borrar los datos locales no elimina por sí solo los registros de licencia del servidor.
 
 8. Menores
 Network Timer no está dirigida a menores de 13 años y no recopilamos a sabiendas información personal de niños.
