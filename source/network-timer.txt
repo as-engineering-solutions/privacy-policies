@@ -14,7 +14,7 @@ El usuario puede revocar los permisos desde Ajustes de Android. Sin ellos, las f
 
 3. Almacenamiento e informes
 El historial, los cortes y las ubicaciones se guardan en el espacio privado de la app en el dispositivo. Los mapas, informes PDF y exportaciones que el usuario crea pueden contener ubicaciones y datos de red; el usuario elige dónde guardarlos o compartirlos.
-Android Auto Backup puede respaldar y restaurar datos conforme a la configuración del dispositivo. La copia en Google Drive es opcional y, tras autorización, utiliza el espacio privado appDataFolder de la cuenta seleccionada. Network Timer no accede a todos los documentos de Drive. Las versiones debug y oficial mantienen respaldos separados.
+La app desactiva la copia automática en la nube de Android; la transferencia directa entre dispositivos puede depender del sistema y del fabricante. La copia en Google Drive es opcional y, tras autorización, utiliza el espacio privado appDataFolder de la cuenta seleccionada. Network Timer no accede a todos los documentos de Drive. Las versiones debug y oficial mantienen respaldos separados.
 Las solicitudes a proveedores externos de mapas y geometría ferroviaria, como Google Maps, OpenStreetMap/Overpass, OpenRailwayMap y CARTO según la función usada, pueden revelar la zona consultada y datos técnicos de conexión, incluida la dirección IP. Rigen también las políticas de esos proveedores.
 
 4. Compras y verificación de acceso
@@ -30,7 +30,7 @@ No vendemos ni alquilamos datos personales y no usamos redes de anuncios ni bibl
 
 7. Conservación y eliminación
 El historial y los registros de diagnóstico locales se conservan mientras la app esté instalada, hasta que se borren desde la app o se eliminen sus datos en Ajustes de Android. Los registros Diagnostics rotan para limitar su tamaño. Desinstalar la app o borrar sus datos no elimina archivos exportados, respaldos externos ni los registros de compra necesarios para verificar derechos en el servidor.
-Las copias de Drive y de Android deben gestionarse en los respectivos servicios. Para solicitar información o eliminación de datos de licencias asociados a una compra, escribe al correo de contacto; puede ser necesario conservar datos mínimos por obligaciones legales o para impedir que una compra revocada vuelva a conceder acceso.
+Las copias de Drive deben gestionarse en Google Drive; los datos transferidos a otro dispositivo deben eliminarse allí. Para solicitar información o eliminación de datos de licencias asociados a una compra, escribe al correo de contacto; puede ser necesario conservar datos mínimos por obligaciones legales o para impedir que una compra revocada vuelva a conceder acceso.
 
 8. Menores
 Network Timer no está dirigida a menores de 13 años y no recopilamos a sabiendas información personal de niños.
